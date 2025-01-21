@@ -13,21 +13,7 @@ This project is a simple C-based Hotel Management System designed to manage room
 - Unique IDs for each room and menu item to simplify selection.
 - Dynamically allocated memory for managing customer, room, and food information.
 
-## How to Run
-Compile the program using GCC or any C compiler:
-```sh
-gcc hotel_management.c -o hotel_management
-```
-Run the executable:
-```sh
-./hotel_management
-```
-
 ## Technologies Used
 - **C Programming Language**: The entire system is implemented using C, with an emphasis on pointer manipulation and dynamic memory allocation.
 - **Data Structures**: Linked lists are used to manage different entities (rooms, customers, and menu items).
 
-## Future Improvements
-- Add file handling to save data between runs.
-- Implement more detailed error handling.
-- Add more menu items and room types.
