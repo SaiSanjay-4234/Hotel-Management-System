@@ -1,4 +1,4 @@
-# Hotel Management System
+# Thave vacancy of rooms
 
 This project is a simple C-based Hotel Management System designed to manage room reservations, customer billing, and food orders for a small hotel. The system uses linked lists to maintain the records of rooms, customers, and the food menu. The primary functionalities include:
 
